@@ -21,6 +21,7 @@ c2 = valor // 2
 c1 = valor % 2
 
 print(valor_inicial)
+
 print(c100, 'nota(s) de R$ 100,00')
 print(c50, 'nota(s) de R$ 50,00')
 print(c20, 'nota(s) de R$ 20,00')
