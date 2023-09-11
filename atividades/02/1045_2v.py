@@ -1,6 +1,6 @@
-a = int(input('A: '))
-b = int(input('B: '))
-c = int(input('C: '))
+a = float(input('A: '))
+b = float(input('B: '))
+c = float(input('C: '))
 
 # ordenação
 
