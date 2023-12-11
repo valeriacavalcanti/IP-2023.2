@@ -1,0 +1,15 @@
+LIBERTADORES
+- Palmeiras
+- Grêmio
+- Atlético-MG
+- Flamengo
+- Botafogo
+- Bragantino
+
+REBAIXADOS
+- Santos
+- Goiás
+- Coritiba
+- América-MG
+
+Total de gols: 946
